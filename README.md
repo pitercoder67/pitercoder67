@@ -46,6 +46,8 @@
 
 <div align="center">
 
+<div align="center">
+
 <table>
 
   <tr>
@@ -53,6 +55,7 @@
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="120"/>
     </td>
+<!-- 🥇 CENTER (big main stats) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
     </td>
