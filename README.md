@@ -23,21 +23,23 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
+
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea" />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua" />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+
 </div>
 
 
