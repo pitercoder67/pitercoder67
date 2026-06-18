@@ -47,23 +47,16 @@
 <div align="center">
 
 <div align="center">
+<!-- STATS -->
+<div align="center">
 
-<table>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pitercoder67&theme=gruvbox" height="120"/>
-<!-- 🥇 CENTER (big main stats) -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
-    </td>
-<!-- 🥉 RIGHT (small languages) -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&theme=gruvbox&hide_border=true" height="120"/>
-    </td>
+  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
 
-  </tr>
-
-</table>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" height="150"/>
 
 </div>
+
+<br/>
 
 
 <!-- SNAKE -->
