@@ -84,14 +84,6 @@
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-</div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=tokyonight)
-###
 
 <table>
   <tr>
