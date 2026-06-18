@@ -57,13 +57,11 @@
     <td align="center">
       <img src="https://streak-stats.demolab.com?user=pitercoder67&theme=gruvbox&hide_border=true" height="120"/>
     </td>
-
     <!-- 🥇 CENTER (big) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
     </td>
-
-    <!-- 🥉 RIGHT (small) -->
+<!-- 🥉 RIGHT (small) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&theme=gruvbox&hide_border=true" height="120"/>
     </td>
