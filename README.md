@@ -48,53 +48,6 @@
 
 <br/>
 
-<!-- STATS -->
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" height="150"/>
-
-</div>
-
-<br/>
-
-
-<div align="center">
-
-<div align="center">
-
-<table>
-
-<tr>
-
-  <!-- 🏆 LEFT (podium) -->
-  <td align="center" valign="top">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" height="120"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=pitercoder67&theme=gruvbox&hide_border=true" height="120"/>
-
-  </td>
-
-  <!-- 📊 RIGHT (main stats) -->
-  <td align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="200"/>
-
-  <br/><br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
-
-  </td>
-
-</tr>
-
-</table>
-
-</div>
 
 
 
