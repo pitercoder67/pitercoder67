@@ -49,12 +49,7 @@
 <div align="center">
 
 <table>
-
-  <tr>
-<!-- 🥈 LEFT (small - activity) -->
-    <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="120"/>
-    </td>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=pitercoder67&theme=gruvbox" height="120"/>
 <!-- 🥇 CENTER (big main stats) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
