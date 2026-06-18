@@ -22,7 +22,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" />
@@ -36,6 +36,8 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html logo" />
 </div>
 
 
