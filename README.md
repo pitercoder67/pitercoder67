@@ -43,6 +43,7 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+  <img src="https://raw.githubusercontent.com/pterodactyl/assets/master/logo.svg" height="40" alt="pterodactyl" />
 
 </div>
 
