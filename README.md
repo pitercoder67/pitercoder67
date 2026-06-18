@@ -86,15 +86,6 @@
 
 
 <table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=dracula" height="150"/>
-    </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
-    </td>
-  </tr>
-
 <div align="center">
   <div style="display:flex; justify-content:center; gap:10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=dracula" height="150"/>
