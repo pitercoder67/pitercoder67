@@ -43,7 +43,7 @@
   <img width="12" />
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
-  
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
   <img src="https://img.shields.io/badge/Pterodactyl-1e1e2e?style=for-the-badge&logo=pterodactyl&logoColor=white" />
   <img src="https://img.shields.io/badge/Wings-1e1e2e?style=for-the-badge&logo=docker&logoColor=white" />
 
