@@ -44,15 +44,6 @@
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
 
-  <br/><br/>
-
-  <!-- INFRA BADGES CENTERED UNDER -->
-  <img src="https://img.shields.io/badge/Pterodactyl-1e1e2e?style=for-the-badge&logo=pterodactyl&logoColor=white" />
-  <img width="10" />
-  <img src="https://img.shields.io/badge/Wings-1e1e2e?style=for-the-badge&logo=docker&logoColor=white" />
-
-</div>
-
 
 </div>
 
