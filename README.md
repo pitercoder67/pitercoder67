@@ -1,18 +1,4 @@
-<br clear="both">
-
-<div align="center">
-  <img height="200" src="https://cdn.discordapp.com/avatars/1185622566212227163/a_7d9483989abc244a1731fe386e04e9af.gif?size=1024"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/pitercoder67/count.svg?"  />
-</div>
-
-###
-
-<p align="center">Hi 👋, I'm Piter!!</p>
+<p align="center">Yo 👋, I'm Piter!!</p>
 <p align="center">A passionate full-stack developer from Warsaw, Poland </p>
 
 ###
