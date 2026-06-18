@@ -87,6 +87,23 @@
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
 </div>
 
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea logo" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua logo" />
+</div>
+
+
+
+
 <div align="center">
   <div style="display:flex; justify-content:center; gap:10px;">
     <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
