@@ -44,7 +44,7 @@
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
 
-  <img src="https://raw.githubusercontent.com/pterodactyl/panel/develop/public/favicon.ico" height="40" alt="pterodactyl" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pterodactyl.svg" height="40" alt="pterodactyl" />
 
 </div>
 
