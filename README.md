@@ -44,27 +44,23 @@
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
 
-</div>
-
-<br/>
-
 <div align="center">
 
 <table>
 
   <tr>
-    <!-- 🥈 LEFT (small) -->
+<!-- 🥈 LEFT (small - activity) -->
     <td align="center">
-      <img src="https://streak-stats.demolab.com?user=pitercoder67&theme=gruvbox&hide_border=true" height="120"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true&include_all_commits=true&count_private=true" height="120"/>
     </td>
-    <!-- 🥇 CENTER (big) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="180"/>
     </td>
-<!-- 🥉 RIGHT (small) -->
+<!-- 🥉 RIGHT (small languages) -->
     <td align="center">
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&theme=gruvbox&hide_border=true" height="120"/>
     </td>
+
   </tr>
 
 </table>
