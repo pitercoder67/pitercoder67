@@ -24,6 +24,8 @@
 
 <div align="center">
 
+<div align="center">
+
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm" />
@@ -39,6 +41,13 @@
   <img src="https://skillicons.dev/icons?i=lua" height="40" alt="lua" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows" />
+
+</div>
+  
 
 </div>
 
