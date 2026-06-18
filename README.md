@@ -62,36 +62,39 @@
 
 <div align="center">
 
+<div align="center">
+
 <table>
-  <tr>
 
-    <!-- 🏆 PODIUM LEFT -->
-    <td valign="top">
+<tr>
 
-      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" height="120"/>
+  <!-- 🏆 LEFT (podium) -->
+  <td align="center" valign="top">
 
-      <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true&hide_title=true" height="120"/>
 
-      <img src="https://streak-stats.demolab.com?user=pitercoder67&theme=gruvbox&hide_border=true" height="120"/>
+  <br/><br/>
 
-    </td>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pitercoder67&theme=gruvbox&hide_border=true" height="120"/>
 
-    <!-- 📊 MAIN STATS RIGHT -->
-    <td>
+  </td>
 
-      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="200"/>
+  <!-- 📊 RIGHT (main stats) -->
+  <td align="center">
 
-      <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="200"/>
 
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
+  <br/><br/>
 
-    </td>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&theme=gruvbox&hide_border=true" height="150"/>
 
-  </tr>
+  </td>
+
+</tr>
+
 </table>
 
 </div>
-
 
 
 
