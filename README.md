@@ -93,6 +93,17 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=tokyonight)
 ###
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=dracula" height="150"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
+    </td>
+  </tr>
+</table>
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pitercoder67/pitercoder67/output/snake.svg" alt="Snake animation" />
