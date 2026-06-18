@@ -28,6 +28,8 @@
 
   <div align="center">
 
+  <div align="center">
+
   <img src="https://skillicons.dev/icons?i=idea" height="40" alt="intellijidea" />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webstorm/webstorm-original.svg" height="40" alt="webstorm" />
@@ -49,6 +51,16 @@
   <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=windows" height="40" alt="windows" />
+  <img width="12" />
+
+  <!-- NEW -->
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
+
+</div>
 
 </div>
 
