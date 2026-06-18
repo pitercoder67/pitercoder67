@@ -61,6 +61,22 @@
 
 <br/>
 
+<!-- STATS -->
+<div align="center">
+
+  <!-- 🥈 LEFT (streak instead of languages) -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=pitercoder67&theme=gruvbox&hide_border=true" height="150"/>
+
+  <!-- 🥇 MAIN (profile stats) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
+
+  <!-- 🥉 RIGHT (top languages) -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" height="150"/>
+
+</div>
+
+<br/>
+
 <!-- SNAKE -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/pitercoder67/pitercoder67/output/snake.svg" alt="Snake animation" />
