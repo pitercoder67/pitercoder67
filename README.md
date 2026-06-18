@@ -44,7 +44,6 @@
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
 
-
 </div>
 
 <br/>
