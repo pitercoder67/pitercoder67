@@ -84,19 +84,16 @@
   <img src="https://skillicons.dev/icons?i=gradle" height="40" alt="gradle logo"  />
 </div>
 
-
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=dracula&hide_border=true" height="150"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150"/>
-      </td>
-    </tr>
-  </table>
+  <div style="display:flex; justify-content:center; gap:10px;">
+    <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=gruvbox&hide_border=true" height="150"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=gruvbox&hide_border=true" height="150"/>
+  </div>
 </div>
+
+
+
+
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pitercoder67/pitercoder67/output/snake.svg" alt="Snake animation" />
