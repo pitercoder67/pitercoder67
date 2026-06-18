@@ -44,9 +44,10 @@
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
 
-<div align="center">
+</div>
 
-<div align="center">
+<br/>
+
 <!-- STATS -->
 <div align="center">
 
@@ -57,7 +58,6 @@
 </div>
 
 <br/>
-
 
 <!-- SNAKE -->
 <div align="center">
