@@ -44,7 +44,7 @@
 
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql" />
 
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pterodactyl.svg" height="40" alt="pterodactyl" />
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/pterodactyl.svg" height="40" alt="pterodactyl" style="filter: invert(70%) sepia(60%) saturate(500%) hue-rotate(180deg);" />
 
 </div>
 
