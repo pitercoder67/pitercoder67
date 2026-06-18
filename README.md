@@ -85,18 +85,18 @@
 </div>
 
 
-<table>
 <div align="center">
-  <div style="display:flex; justify-content:center; gap:10px;">
-    <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=dracula" height="150"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=tokyonight" height="150"/>
-  </div>
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=pitercoder67&show_icons=true&theme=dracula&hide_border=true" height="150"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pitercoder67&layout=compact&langs_count=6&theme=dracula&hide_border=true" height="150"/>
+      </td>
+    </tr>
+  </table>
 </div>
-</table>
-
 <br clear="both">
 
 <img src="https://raw.githubusercontent.com/pitercoder67/pitercoder67/output/snake.svg" alt="Snake animation" />
-
-###
-[![wakatime](https://wakatime.com/badge/user/8af6af60-bc6a-4845-b448-62f705567a6c.svg)](https://wakatime.com/@8af6af60-bc6a-4845-b448-62f705567a6c)
